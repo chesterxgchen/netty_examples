@@ -1,4 +1,4 @@
-package server
+package echo.server
 
 import java.net.InetSocketAddress
 

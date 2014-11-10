@@ -1,4 +1,4 @@
-package server
+package echo.server
 
 import io.netty.buffer.{ByteBuf, Unpooled}
 import io.netty.channel.ChannelHandler.Sharable
